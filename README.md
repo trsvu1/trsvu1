@@ -12,7 +12,7 @@
 
 ---
 
-## 💡 Objectives
+## 💡 Goals
 
 I am pursuing a future in **Artificial Intelligence**, with a strong focus on **Large Language Models (LLMs)**.  
 My ambition is to become an **LLM Developer** through a Master’s program, where I can apply both software engineering fundamentals and AI research to build intelligent systems.
@@ -29,7 +29,7 @@ My ambition is to become an **LLM Developer** through a Master’s program, wher
 *Also experienced with PHPMyAdmin*
 
 ### Tools & Platforms  
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,trello,eclipse,discord)](https://skillicons.dev)  
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
 *Additional tools: Notion, GitHub Copilot, OpenAI APIs*
 
 ---
