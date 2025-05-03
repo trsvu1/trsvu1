@@ -30,7 +30,6 @@ My ambition is to become an **LLM Developer** through a Master’s program, wher
 
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
-*Additional tools: Notion, GitHub Copilot, OpenAI APIs*
 
 ---
 
