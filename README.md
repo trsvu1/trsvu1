@@ -30,14 +30,7 @@ This page showcases my **projects**, **technical stack**, and **goals** as I gro
 ---
 
 ### 📬 How to Reach Me
-- 📧 Email: `xxx@gmail.com`
-- 💼 LinkedIn: [xxx](https://linkedin.com/in/xxx)
-- 🐙 GitHub: [xxx](https://github.com/xxx)
+- 📧 Email: `truong-son.vu@mediaschool.me`
+- 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
 
 ---
-
-### 🔮 Future Goals
-- Dive deeper into **AI/LLM engineering**, 
-- Join a **Master’s program** in Artificial Intelligence or Software Engineering
-- Becoming a Full Stack Developper
-- Build impactful **AI-powered tools** for real-world use
