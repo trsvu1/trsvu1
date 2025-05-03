@@ -5,7 +5,7 @@
 ---
 
 ## 🎓 Education
-- **Baccalauréat**, High School For Gifted Student, Hanoi, Vietnam
+- **BACCALAURÉAT**, High School For Gifted Student, Hanoi, Vietnam
 - **BTS SIO – Option SLAM**, Ecole IRIS, Paris  
   *2nd Year Student – Software Solutions and Application Development*  
 - Currently applying for a **Licence 3 in Software Development for Organizations**
