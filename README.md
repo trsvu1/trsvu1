@@ -15,7 +15,7 @@
 ## 💡 Goals
 
 I am pursuing a future in **Artificial Intelligence**, with a strong focus on **Large Language Models (LLMs)**.  
-My ambition is to become an **LLM Developer** through a Master’s program, where I can apply both software engineering fundamentals and AI research to build intelligent systems.
+Ambitious to become an **LLM Developer** through a Master’s program
 
 ---
 
