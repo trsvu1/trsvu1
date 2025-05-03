@@ -35,14 +35,11 @@ Ambitious to become an **LLM Developer** through a Master’s program
 
 ## 📬 Contact
 
-- 📧 Email: `xxx@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/xxx](https://linkedin.com/in/xxx)  
-- 🐙 GitHub: [github.com/xxx](https://github.com/xxx)
+- 📧 Email: `truong-son.vu@mediaschool.me`  
+- 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
 
 ---
 
 ## 🚀 Looking Forward
 
 > _"Learning never exhausts the mind." – Leonardo da Vinci_  
-
-I am ready to contribute, learn, and grow in environments that challenge me to push the boundaries of what AI and software can do.
