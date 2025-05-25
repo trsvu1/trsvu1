@@ -5,10 +5,11 @@
 ---
 
 ## 🎓 Education
-- **BACCALAURÉAT**, High School For Gifted Student, Hanoi, Vietnam
-- **BTS SIO – Option SLAM**, Ecole IRIS, Paris  
+- **Baccalauréat**, High School For Gifted Student, Hanoi, Vietnam
+- **DU FLE - Langage Français**, Université Paris Saclay - IUT d'Orsay, 91190 Gif-sur-Yvette
+- **BTS SIO – Option SLAM**, École IRIS, 75017 Paris 
   *2nd Year Student – Software Solutions and Application Development*  
-- Currently applying for a **Licence 3 in Software Development for Organizations**
+- Currently applying for a **Licence 3 in Mathématique and Informatique**
 
 ---
 
