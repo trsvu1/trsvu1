@@ -2,6 +2,8 @@
 
 **Student Developer | Future LLM Engineer | Passionate About AI**
 
+---
+
 ## 🧰 Technical Skills
 
 ### Languages & Frameworks  
