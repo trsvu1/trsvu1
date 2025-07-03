@@ -20,7 +20,7 @@
 
 ## 📬 Contact
 
-- 📧 Email: `truong-son.vu@mediaschool.me`  
+- 📧 Email: `truongsonvu.tech@gmail.com`  
 - 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
 
 ---
