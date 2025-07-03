@@ -1,6 +1,6 @@
 # 👨‍💻 Truong Son Vu
 
-**Student Developer | Future LLM Engineer | Passionate About AI**
+**Student Developer | Future DevOps Engineer | Passionate About AI**
 
 ---
 
