@@ -1,6 +1,6 @@
-# Truong Son Vu
+## Truong Son Vu
 
-## 🧰 Technical Skills
+## Technical Skills
 
 ### Languages & Frameworks  
 [![Languages](https://skillicons.dev/icons?i=html,css,js,react,php,java,python,c,cpp)](https://skillicons.dev)
@@ -12,9 +12,7 @@
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
 
----
-
-## 📬 Contact
+## Contact
 
 - 📧 Email: `truongsonvu.tech@gmail.com`  
 - 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
