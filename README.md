@@ -7,7 +7,6 @@
 
 ### Databases  
 [![Databases](https://skillicons.dev/icons?i=mysql,github)](https://skillicons.dev)  
-*Also experienced with PHPMyAdmin*
 
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
