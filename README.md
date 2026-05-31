@@ -1,6 +1,4 @@
-# 👨‍💻 Truong Son Vu
-
-**Student Developer Entry-Level | Future DevOps Engineer | Passionate About AI**
+# Truong Son Vu
 
 ---
 
@@ -22,9 +20,3 @@
 
 - 📧 Email: `truongsonvu.tech@gmail.com`  
 - 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
-
----
-
-## 🚀 Looking Forward
-
-> _"Learning never exhausts the mind." – Leonardo da Vinci_  
