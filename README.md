@@ -1,5 +1,3 @@
-## Truong Son Vu
-
 ## Technical Skills
 
 ### Languages & Frameworks  
