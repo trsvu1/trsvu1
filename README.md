@@ -8,8 +8,3 @@
 
 ### Tools & Platforms  
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,eclipse,discord)](https://skillicons.dev)  
-
-## Contact
-
-- 📧 Email: `truongsonvu.tech@gmail.com`  
-- 💼 LinkedIn: https://www.linkedin.com/in/trsvu1/
